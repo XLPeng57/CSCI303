@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/trees_exec.dir/src/bst/BinarySearchTree.cpp.o CMakeFiles/trees_exec.dir/src/bst/TreeNode.cpp.o CMakeFiles/trees_exec.dir/src/main.cpp.o  -o trees_exec 

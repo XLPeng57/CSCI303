@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="graphs"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="graphs_exec">
+				<Option output="/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/cmake-build-debug/graphs_exec" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/include"/>
+					<Add directory="/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/src"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/cmake-build-debug/Makefile&quot;  VERBOSE=1 graphs_exec"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="graphs_exec/fast">
+				<Option output="/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/cmake-build-debug/graphs_exec" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/include"/>
+					<Add directory="/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/src"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/cmake-build-debug/Makefile&quot;  VERBOSE=1 graphs_exec/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/src/algorithms/DijkstraAlgorithm.h">
+			<Option target="graphs_exec"/>
+		</Unit>
+		<Unit filename="/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/src/algorithms/DijkstraOutput.h">
+			<Option target="graphs_exec"/>
+		</Unit>
+		<Unit filename="/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/src/entity/City.h">
+			<Option target="graphs_exec"/>
+		</Unit>
+		<Unit filename="/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/src/entity/Object.h">
+			<Option target="graphs_exec"/>
+		</Unit>
+		<Unit filename="/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/src/entity/StringElement.h">
+			<Option target="graphs_exec"/>
+		</Unit>
+		<Unit filename="/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/src/graph/Edge.h">
+			<Option target="graphs_exec"/>
+		</Unit>
+		<Unit filename="/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/src/graph/Graph.h">
+			<Option target="graphs_exec"/>
+		</Unit>
+		<Unit filename="/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/src/graph/HashFunctions.h">
+			<Option target="graphs_exec"/>
+		</Unit>
+		<Unit filename="/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/src/graph/Vertex.h">
+			<Option target="graphs_exec"/>
+		</Unit>
+		<Unit filename="/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/src/main.cpp">
+			<Option target="graphs_exec"/>
+		</Unit>
+		<Unit filename="/Users/xl_peng/Desktop/repo_xpeng04/a7/graphs2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

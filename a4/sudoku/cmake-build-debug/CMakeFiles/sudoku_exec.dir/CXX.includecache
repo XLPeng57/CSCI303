@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xl_peng/Desktop/repo_xpeng04/a4/sudoku/src/StringUtils.h
+algorithm
+-
+functional
+-
+cctype
+-
+locale
+-
+
+/Users/xl_peng/Desktop/repo_xpeng04/a4/sudoku/src/Sudoku.h
+string
+-
+sstream
+-
+fstream
+-
+vector
+-
+cmath
+-
+StringUtils.h
+/Users/xl_peng/Desktop/repo_xpeng04/a4/sudoku/src/StringUtils.h
+random
+-
+tuple
+-
+
+/Users/xl_peng/Desktop/repo_xpeng04/a4/sudoku/src/main.cpp
+iostream
+-
+Sudoku.h
+/Users/xl_peng/Desktop/repo_xpeng04/a4/sudoku/src/Sudoku.h
+

@@ -1,0 +1,3 @@
+/Users/xl_peng/Desktop/repo_xpeng04/a5/sorting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/xl_peng/Desktop/repo_xpeng04/a5/sorting/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xl_peng/Desktop/repo_xpeng04/a5/sorting/cmake-build-debug/CMakeFiles/sorting.dir
